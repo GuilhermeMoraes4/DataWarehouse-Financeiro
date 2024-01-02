@@ -23,7 +23,7 @@
 <dl>Python "https://www.python.org/downloads/"</dl>
 <dl>Visual Studio Code "https://code.visualstudio.com/download"</dl>
 <dl>Apache Spark "https://spark.apache.org/downloads.html"</dl>
-<dl>Docker "https://www.docker.com/products/docker-desktop"</dl>
+
 
 
 ## Como rodar os testes
