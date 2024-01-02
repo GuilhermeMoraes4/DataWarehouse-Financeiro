@@ -44,9 +44,9 @@
 # Execução do ETL e Exportação do Arquivo para Análise 
 
 <p>Abra o arquivo ETL_Spark_Exportacao_CSV.py.</p>
-<p>Instale as bibliotecas Pandas, PySpark e decouple.</p>
+<p>Instale as bibliotecas Pandas e PySpark.</p>
 <p>Altere as configurações das variáveis url, user e password nos dataframes: df_movimentacoes, df_cartoes, df_contas e df_associados.</p>
-<p>Execute o código em Python para gerar o CSV com as informações solicitadas no desafio, é possível alterar as colunas e informações que serão expressas no arquivo CSV alterando o SELECT e os JOINS da variável Query.</p>
+<p>Execute o código em Python para gerar o CSV com as informações, é possível alterar as colunas e informações que serão expressas no arquivo CSV alterando o SELECT e os JOINS da variável Query.</p>
 <p>Obs: Como entusiasta da área de B.I., além da área de engenharia de dados, recomendo que este CSV seja utilizado agora, juntamente com o software de visualização de dados como Power BI ou Tableau, para a criação de insights. Por fim, envie-o aos tomadores de decisão.</p>
 
 
