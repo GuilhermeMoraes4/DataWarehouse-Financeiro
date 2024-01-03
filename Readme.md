@@ -28,12 +28,12 @@
 
 ## Como rodar os testes
 
-# Criação do Banco de Dados SiCooperativeDB
+# Criação do Banco de Dados FinanceDB
 
 <p>Execute o MySQL e inicie o servidor local.</p>
 <p>Execute o script Arquitetura_BancoDeDados_SQL.sql para criar o database FinanceDB e suas tabelas com relacionamentos.</p>
 
-# Inserção de Dados no Banco de Dados SiCooperativeDB
+# Inserção de Dados no Banco de Dados FinanceDB
 
 <p>Abra o arquivo Insercao_De_Dados.py.</p>
 <p>Instale as bibliotecas random, faker e decouple.</p>
